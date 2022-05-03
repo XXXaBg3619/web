@@ -1,0 +1,39 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: placeholder
+}
+
+p, li, div {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #e8c088;
+  padding: 0 20px 20px 20px;
+  border: 5px double black;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 0;
+  padding: 1px 0;
+  color: #0a5d91;
+  text-shadow: 1px 1px 0px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  color:#0645AD;
+}
+
+a:hover {
+  color: red;
+}
